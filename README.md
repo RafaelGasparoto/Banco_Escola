@@ -1,5 +1,6 @@
 # Banco Escola
 Modelagem de um banco de dados para um ambiente simples de uma escola, com entidades professores, aulas, turma, alunos.  
+Utilizei MySQL para a criação do banco de dados e Br Modelo para a modelagem conceitual e lógica.  
 Foi feito alguns inserts, updates e delete com a finalidade de entender como funciona.  
 <h1 align="center">
   Modelo Conceitual
